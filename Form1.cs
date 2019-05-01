@@ -1,14 +1,3 @@
-﻿/********************************************************************
-Class:     CSCI 473-01
-Program:   Assignment 5
-Author:    Shyam S N Ammanamanchi, Jagadeesh Guru, Rajeswari Gundu, Aditya Sabbineni . Group 6
-Z-number:  z1776539,z1784615,z1784316,z1780715
-Date Due:  12/02/2016
-
-Purpose:   This program make the user to guess a color. Initially a color wil be displyed to the user in a rectangle. They can enter colors using
- *         the provided dropdowns. Entered color and appropriate message will be displyed.
-
-*********************************************************************/
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
